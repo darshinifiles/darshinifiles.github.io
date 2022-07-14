@@ -2,7 +2,7 @@
   "name": "memory-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "darshinifiles.github.io",
+  "homepage": "https://darshinifiles.github.io/",
   "dependencies": {
     "-": "^0.0.1",
     "gh-pages": "^4.0.0",
